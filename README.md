@@ -1,12 +1,12 @@
 # 🔐 Product Cipher Visualizer
 
-An interactive web-based cryptography tool that demonstrates Caesar Cipher, Rail Fence Cipher, and their combined Product Cipher with real-time visualization and analysis.
+An interactive web-based cryptography tool that demonstrates **Caesar Cipher**, **Rail Fence Cipher**, and their combined **Product Cipher** with real-time visualization and analysis.
 
 ---
 
 ## 📌 Project Overview
 
-This project helps users understand cryptography through visual learning by showing how plaintext transforms step-by-step into ciphertext.
+This project helps users understand how encryption works by visually transforming plaintext into ciphertext using substitution and transposition techniques.
 
 ---
 
@@ -23,21 +23,63 @@ This project helps users understand cryptography through visual learning by show
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Project Screenshots
 
-### Visualization Step-by-Step
+### 🏠 Home Page
+
+![Home](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/home.jpg)
+
+---
+
+### ⚙️ Features Page
+
+![Features](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/features.jpg)
+
+---
+
+### 🔐 Caesar Cipher Process
+
+![Caesar](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/CAESAR%20CIPHER%20PROCESS.jpg)
+
+---
+
+### 🔀 Rail Fence Cipher Process
+
+![RailFence](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/RAIL%20FENCE%20CIPHER%20PROCESS.jpg)
+
+---
+
+### 🔗 Product Cipher Output
+
+![Product](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/PRODUCT%20CIPHER.jpg)
+
+---
+
+### 💥 Avalanche Effect Analysis
+
+![Avalanche](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/AVALANCHE%20EFFECT%20ANALYSIS.jpg)
+
+---
+
+### 📊 Security Strength Analysis
+
+![Security](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/SecurityAnalysis.png)
+
+---
+
+### 🔄 Visualization Step-by-Step
 
 ![Visualization](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/VisualizationStep.jpg)
 
 ---
 
-### System Architecture
+### 🏗️ System Architecture
 
 ![Architecture](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/SYSTEM%20ARCHITECTURE%20.jpeg)
 
 ---
 
-### Architecture Flow
+### 🔁 Architecture Flow
 
 ![Flow](https://raw.githubusercontent.com/VANITHA1011/product-cipher-visualizer/main/projectUI/ARCHITECTURE%20FLOW%20.jpeg)
 
@@ -77,3 +119,7 @@ git clone https://github.com/VANITHA1011/product-cipher-visualizer.git
 Open using Live Server in VS Code
 
 ---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐
